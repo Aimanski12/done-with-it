@@ -1,6 +1,8 @@
 import { AsyncStorage } from "react-native";
 import dayjs from "dayjs";
 
+// please add caching storage
+
 const prefix = "cache";
 const expiryInMinutes = 5;
 
